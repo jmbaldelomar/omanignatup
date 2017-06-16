@@ -1,0 +1,12 @@
+Project Groups - All students must submit
+
+Submit your project groups. Identify the following:
+
+Project Title: Sentiment Analysis of Unstructured, Website-based Client Reviews and Feedback Using Natural Language Processing
+
+Is this the same topic from INTSDEV? (Yes/No) Yes
+
+Team Leader: James Baldelomar
+
+Team Members: Joshua Morales, Hugo Dimaranan, Rene Valguna, Nathaniel Melad
+		
